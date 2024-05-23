@@ -1,5 +1,4 @@
-# Hình ảnh cửa ứng dụng
-
+# Hình ảnh của ứng dụng
 
 <div style="display: flex; justify-content: center">
   <img src="image.png" alt="alt text" width="180" style="margin-left: 60px;"/>
