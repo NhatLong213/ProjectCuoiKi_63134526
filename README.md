@@ -1,5 +1,6 @@
 # ProjectCuoiKi_63134526
 
+<<<<<<< HEAD
 <div style="display: flex; justify-content: center">
   <img src="image.png" alt="alt text" width="180" style="margin-left: 60px;"/>
   <img src="image-2.png" alt="alt text" width="180" style="margin-left: 60px;"/>
@@ -11,3 +12,7 @@
   <img src="image-6.png" alt="alt text" width="180" style="margin-left: 60px;"/>
   <img src="image-7.png" alt="alt text" width="180" style="margin-top: 60px;"/>
 </div>
+=======
+
+
+>>>>>>> fbf18e1dcf1ed1aba6896769bdd66ceca36cb5f9
