@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="@drawable/note_bg">
+
+    <TextView
+        android:id="@+id/titleTextView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/contentTextView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp" />
+
+
+
+    <ImageView
+        android:id="@+id/noteImageView1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        android:visibility="gone"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/editButton1"
+        android:layout_width="74dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="8dp"
+        android:text="Sửa"
+        android:textSize="14dp" />
+
+    <TextView
+        android:id="@+id/timeTextView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textColor="#7C7272"
+        android:layout_marginTop="4dp" />
+</LinearLayout>
